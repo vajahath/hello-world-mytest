@@ -95,6 +95,9 @@ bye..
 
 
 ## Change Log
+*1.1.1*
+* Connecting to GitHub.
+
 *1.1.0*
 * Small change in style.
 * Documentation update.
