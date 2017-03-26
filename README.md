@@ -1,4 +1,6 @@
 # hello-world polymer custom element
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/vajahath/hello-world-mytest.svg)](https://greenkeeper.io/)
 This is a hello-world that is intended to confirm that the basic setup is working fine.
 
 This is a simple basic Polymer web component that I used to verify that the basic setup OK.
